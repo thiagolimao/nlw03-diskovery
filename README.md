@@ -7,7 +7,10 @@
   <em>HTML, CSS, Javascript, Node, SQL</em> <br>
   O NLW é um evento online com muito conteúdo prático, desafios e hacks que vão te ajudar a avançar para o próximo nível em programação.
 </p>
+<p>#nlw #rocketseat </p>
+<a href="https://nextlevelweek.com/" title="Apostila NLW">&lt;nlw /&gt;</a>
 <a href="https://storage.googleapis.com/golden-wind/nextlevelweek/Apostila-NLW.pdf" title="Apostila NLW">Apostila NLW</a>
+<a href="https://www.notion.so/Layout-Happy-Discovery-ce58c48280d34d249656565eabc5397f" title="Layout base do projeto">Layout base do projeto</a>
 
 <br>
  
