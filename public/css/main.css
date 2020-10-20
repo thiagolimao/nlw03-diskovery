@@ -1,0 +1,21 @@
+/* Home */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    font-size: 10px; /* 62.5% */
+}
+
+body {
+    height: 100vh;
+    color: white;
+}
+
+body, input, button, textarea, select{
+    font-weight: 400;
+    font-size: 1.8rem;
+    line-height: 1;
+    font-family: 'Nunito', sans-serif;
+}
