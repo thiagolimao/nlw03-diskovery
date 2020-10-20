@@ -182,6 +182,14 @@ main {
     border: 1px solid #A1E9C5;
     color: #37C77F;
 }
+.open-details .close-on-weekends
+{
+    background: linear-gradient(154.16deg, #FCF0F4 7.85%, #FFFFFF 91.03%);
+    border: 1px solid #FFBCD4;
+    color: #FF669D;
+
+    display: none;
+}
 
 .primary-button {
     margin-top: 6.4rem;
