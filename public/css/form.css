@@ -1,0 +1,103 @@
+
+form {
+    width:70rem;
+    margin: 6.4rem auto;
+    border: 1px solid #d3e2e5;
+    background-color: #ffffff;
+    border-radius: 2rem;
+
+    overflow: hidden;
+    padding: 8rem;
+}
+
+fieldset {
+    border: none;
+}
+fieldset + fieldset {
+    margin-top: 8rem;
+}
+
+fieldset legend {
+    width: 100%;
+    font-size: 3.2rem;
+    line-height:1.5;
+
+    color: #5c8599;
+    font-weight: 700;
+
+    border-bottom: 1px solid #d3e2e5;
+    margin-bottom: 4rem;
+    padding-bottom: 2.4rem;
+}
+.input-block + .input-block {
+    margin-top: 2.4rem;
+}
+
+.input-block label {
+    color: #8FA7B2;
+    margin-bottom: .8rem;
+    line-height:1.5;
+}
+
+.input-block label span {
+    font-size: 1.4rem;
+    color: #8FA7B3;
+    margin-left: 2.4rem;;
+    line-height:1.5;
+}
+
+
+.input-block input,
+.input-block textarea {
+    width: 100%;
+
+    background-color: #f5f8fa;
+    border: 1px solid #d3e2e5;
+    border-radius: 2rem;
+
+    color: #5c8599;
+    outline: none;
+}
+
+.input-block input:focus,
+.input-block textarea:focus {
+    border: 1px solid #15C3D6;
+}
+
+.input-block input:valid,
+.input-block textarea:valid {
+    border: 1px solid #A1E9C5;
+}
+
+.input-block input::-webkit-input-placeholder,
+.input-block textarea::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color: #8FA7B2;
+}
+.input-block input::-moz-placeholder,
+.input-block textarea::-moz-placeholder { /* Firefox 19+ */
+    color: #8FA7B2;
+}
+.input-block input:-ms-input-placeholder,
+.input-block textarea:-ms-input-placeholder { /* IE 10+ */
+    color: #8FA7B2;
+}
+.input-block input:-moz-placeholder,
+.input-block textarea:-moz-placeholder { /* Firefox 18- */
+    color: #8FA7B2;
+}
+
+.input-block input {
+    height: 6.4rem;
+    padding: 0 1.6rem;
+}
+.input-block textarea {
+    height: clamp(12rem, 16rem, 24rem);
+    resize: vertical;
+    padding: 1.6rem;
+    line-height: 2.8rem;
+}
+
+
+.new-upload + .new-upload {
+    margin-top: 2.4rem;
+}   
