@@ -1,7 +1,5 @@
 <img align="right" width="408" height="204" src="http://www.thiagolima.com/img/github/nlw_ticket.png">
 
-![logo](http://www.thiagolima.com/img/github/logo_limao.png)
-
 # NLW Discovery #03
 <p>
   <em>HTML, CSS, Javascript, Node, SQL</em> <br>
