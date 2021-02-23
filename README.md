@@ -2,7 +2,7 @@
 
 # NLW Discovery #03
 <p>
-  <em>HTML, CSS, Javascript, Node, SQL</em> <br>
+  <em>Trilha NodeJS</em> <br>
   O NLW é um evento online com muito conteúdo prático, desafios e hacks que vão te ajudar a avançar para o próximo nível em programação.
 </p>
 <p>#nlw #rocketseat </p>
