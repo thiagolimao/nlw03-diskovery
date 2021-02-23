@@ -91,3 +91,11 @@ function toggleSelect(event){
 
     input.value = button.dataset.value
 }
+
+function validateForm(event) {
+    // validar se lat e lng estao preenchidos
+    if(document.querySelector('[name = "lat"]').value == "") {
+        event.preventDefault()
+        alert('Selecione um ponto no mapa')
+    }
+}

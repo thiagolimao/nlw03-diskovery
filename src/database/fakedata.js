@@ -5,6 +5,7 @@ module.exports = [
         lng: "-49.6455874",
         name: "Gotas de Flor com amor",
         description: "Presta assistência a crianças de 06 a 15 anos que se encontre em situação de risco e/ou vulnerabilidade social.",
+        whatsapp: "99999999",
         images: [
             "https://images.unsplash.com/photo-1613733539611-ca96d94b46ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&ixlib=rb-1.2.1&q=80&w=1080&utm_source=unsplash_source&utm_medium=referral&utm_campaign=api-credit",
             "https://images.unsplash.com/photo-1613381385525-22eba54c60eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&ixlib=rb-1.2.1&q=80&w=1080&utm_source=unsplash_source&utm_medium=referral&utm_campaign=api-credit",
@@ -24,6 +25,7 @@ module.exports = [
         lng: "-49.6555874",
         name: "Lar das meninas",
         description: "Presta assistência a crianças de 06 a 15 anos que se encontre em situação de risco e/ou vulnerabilidade social.",
+        whatsapp: "99999999",
         images: [
             "https://images.unsplash.com/photo-1607128400152-06c00b09e3b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&ixlib=rb-1.2.1&q=80&w=1080&utm_source=unsplash_source&utm_medium=referral&utm_campaign=api-credit",
             "https://images.unsplash.com/photo-1611690826251-bf199ae9aae3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&ixlib=rb-1.2.1&q=80&w=1080&utm_source=unsplash_source&utm_medium=referral&utm_campaign=api-credit",

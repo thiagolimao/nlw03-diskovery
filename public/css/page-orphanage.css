@@ -55,7 +55,7 @@ main {
 
 /* orphanage-details-content */
 .orphanage-details-content {
-    padding: 8rem;
+    padding: 4rem 8rem 8rem 8rem;
 }
 .orphanage-details-content h1
 {
@@ -129,6 +129,4 @@ main {
     background: linear-gradient(154.16deg, #FCF0F4 7.85%, #FFFFFF 91.03%);
     border: 1px solid #FFBCD4;
     color: #FF669D;
-
-    display: none;
 }
